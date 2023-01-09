@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.select-class{
+  width: 50% !important;
+  margin: 0 auto;
+}
+
+.field_level_error{
+  color:red
+}
+
+.formCenter {
+  margin: auto;
+  width: 50%;
+}
